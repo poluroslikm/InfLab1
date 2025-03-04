@@ -1,0 +1,11 @@
+﻿  InfMedzhidov1.cpp
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(17,5): error C2065: abs1: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(18,5): error C2065: abs2: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(19,5): error C2065: res1: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(19,12): error C2065: abs1: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(20,5): error C2065: res2: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(20,12): error C2065: abs2: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(21,9): error C2065: res1: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(21,16): error C2065: res2: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(24,13): error C2065: res1: необъявленный идентификатор
+C:\Users\student\source\repos\Lab0\InfMedzhidov1\InfMedzhidov1.cpp(24,21): error C2065: res2: необъявленный идентификатор
