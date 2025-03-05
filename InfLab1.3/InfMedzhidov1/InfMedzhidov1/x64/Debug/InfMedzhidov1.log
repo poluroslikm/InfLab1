@@ -1,0 +1,6 @@
+﻿  InfMedzhidov1.cpp
+C:\Users\Poluroslik M\Desktop\InfLab2\InfMedzhidov1\InfMedzhidov1.cpp(58,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\InfLab2\InfMedzhidov1\InfMedzhidov1.cpp(59,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\InfLab2\InfMedzhidov1\InfMedzhidov1.cpp(65,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\InfLab2\InfMedzhidov1\InfMedzhidov1.cpp(44,19): warning C4101: p: неиспользованная локальная переменная
+  InfMedzhidov1.vcxproj -> C:\Users\Poluroslik M\Desktop\InfLab2\InfMedzhidov1\x64\Debug\InfMedzhidov1.exe
